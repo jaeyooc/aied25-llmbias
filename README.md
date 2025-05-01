@@ -12,9 +12,9 @@ For each transcript that I will provide, identify a speaker who exhibits agentic
 
 Provide only the name of the speaker who exhibits agentic leadership. Do not provide other output. If no speaker shows agentic leadership, respond with NoLeader. 
 
-\## Team : \{team name\} \##\#  \\
-\##\# Team composition: \{demographic\_info\} \##\# \\
-\##\# Team transcript: \{team\_conversation\} \##\# \\
+\## Team : {team name} \##\#  
+\### Team composition: {demographic_info} \### 
+\### Team transcript: \{team_conversation} \### 
 
 ### Communal Leadership Prompt
 The following transcript is from a computer-based educational game ... [description of the transcript context]
@@ -23,7 +23,7 @@ For each transcript that I will provide, identify a speaker who exhibits communa
 
 Provide only the name of the speaker who exhibits communal leadership. Do not provide other output. If no speaker shows agentic leadership, respond with NoLeader. 
 
-\## Team : \{team name\} \##\# \\
-\##\# Team information: \{demographic\_info\} \##\# \\
-\##\# Team transcript: \{team\_conversation\} \##\# \\
+\## Team : {team name} \##\#  
+\### Team composition: {demographic_info} \### 
+\### Team transcript: \{team_conversation} \### 
 
